@@ -1,7 +1,4 @@
-# hello-github
-Githubの機能を試すためのリポジトリです  
-=======
-GitHubの機能を試すためのリポジトリです。  
-Git連載記事の作業用リポジトリです。  
-テストの文章を入れてみます  
-新しいブランチから文章を入れてみた
+# Gitでわからないことがあった時用のリンク  
+こちら↓  
+リポジトリ作成：https://atmarkit.itmedia.co.jp/ait/articles/1701/24/news141_2.html  
+プロジェクト/カラム作成：https://atmarkit.itmedia.co.jp/ait/articles/1704/28/news032_2.html  
